@@ -1,0 +1,26 @@
+{
+  "name": "string-replace-first",
+  "version": "0.0.0",
+  "description": "Replaces first match of a pattern in a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiljohansson/string-replace-first.git"
+  },
+  "keywords": [
+    "windows",
+    "os"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiljohansson/string-replace-first/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/string-replace-first#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
